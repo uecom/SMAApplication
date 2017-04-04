@@ -1,0 +1,2 @@
+# SMAApplication
+SMA Application Group
